@@ -1,0 +1,16 @@
+body{
+    margin:0;
+    padding:0
+}
+.scranton{
+   border: 3px solid red; 
+   
+}
+h1{
+    border: 1px solid orange;
+}
+.employee{
+    border:2px solid saddlebrown;
+    padding: 0.5em;
+    margin:1.5em;
+}
