@@ -1,5 +1,5 @@
 body{
-    margin-bottom:5em;
+    margin:5em;
     padding:0;
 }
 .scranton{
@@ -40,7 +40,8 @@ h1{
 }
 .para{
     font-size: 25px;
-    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
     width: 600px;
     height: 300px;
     word-wrap: break-word;
@@ -59,4 +60,117 @@ h1{
 
 a{
     text-decoration:none;
+}
+/* .trans{
+    transition-delay: 1500ms;
+} */
+
+.founders{
+    border: 1px solid coral;
+    background-color: coral;
+    padding: 3em;
+    text-align:center;
+    color:white;
+    font-size: 2rem;
+}
+
+.ceos{
+    border: 1px solid chocolate;
+    background-color: chocolate;
+    color: white;
+    padding: 3em;
+    text-align:center;
+    font-size: 1.3rem;
+}
+.vice-president{
+    border: 1px solid darkblue;
+    background-color: darkblue;
+    color: white;
+    padding: 3em;
+    text-align:center;
+    font-size: 1.2 rem;
+
+}
+
+.summary{
+    text-justify:interword;
+    width: 600px;
+}
+
+.former-managers{
+    border:1px solid grey;
+    text-align:center;
+    color:white;
+    background-color: grey;
+    padding:3em;
+}
+
+.managers{
+    border:1px solid yellowgreen;
+    text-align:center;
+    color:white;
+    background-color: yellowgreen;
+    padding:3em;  
+}
+
+.sales{
+    border:1px solid goldenrod;
+    text-align:center;
+    color:white;
+    background-color:goldenrod;
+    padding: 3em;
+}
+.reception{
+    border:1px solid fuchsia;
+    text-align:center;
+    color:white;
+    background-color:fuchsia;
+    padding: 3em;
+}
+.book-keeper{
+    border: 1px solid seagreen;
+    text-align:center;
+    color:white;
+    background-color: seagreen;
+    padding: 3em;
+}
+
+.hr{
+    border: 1px solid indigo;
+    text-align:center;
+    color:white;
+    background-color: indigo;
+    padding: 3em;
+}
+
+.call{
+    border: 1px solid darkred;
+    text-align:center;
+    color:white;
+    background-color: darkred;
+    padding: 3em;
+}
+
+.prod{
+    border: 1px solid lawngreen;
+    text-align:center;
+    color:white;
+    background-color: lawngreen;
+    padding: 3em;
+}
+
+.stat{
+    border: 1px solid slateblue;
+    text-align:center;
+    color:white;
+    background-color:slateblue;
+    padding: 3em;
+}
+
+.labourers{
+    border: 1px solid darkolivegreen;
+    text-align:center;
+    color:white;
+    background-color: darkolivegreen;
+    padding: 3em;
 }
