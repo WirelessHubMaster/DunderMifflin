@@ -57,6 +57,10 @@ h1{
     /* border-color: darkgray; */
     color:grey;
 }
+hr{
+    color: white;
+    border: 3px solid white;
+}
 
 a{
     text-decoration:none;
@@ -72,6 +76,8 @@ a{
     text-align:center;
     color:white;
     font-size: 2rem;
+    font-family: "Montserrat", sans-serif;
+    margin-bottom: 0.2em;
 }
 
 .ceos{
@@ -81,6 +87,7 @@ a{
     padding: 3em;
     text-align:center;
     font-size: 1.3rem;
+    margin-bottom: 0.2em;
 }
 .vice-president{
     border: 1px solid darkblue;
@@ -103,14 +110,18 @@ a{
     color:white;
     background-color: grey;
     padding:3em;
+    font-family: 'Source Sans Pro', sans-serif;
+
 }
 
 .managers{
-    border:1px solid yellowgreen;
+    border:1px solid purple;
     text-align:center;
     color:white;
-    background-color: yellowgreen;
+    background-color: purple;
     padding:3em;  
+    font-family: 'Source Sans Pro', sans-serif;
+
 }
 
 .sales{
@@ -119,6 +130,8 @@ a{
     color:white;
     background-color:goldenrod;
     padding: 3em;
+    font-family: 'Source Sans Pro', sans-serif;
+
 }
 .reception{
     border:1px solid fuchsia;
@@ -126,6 +139,8 @@ a{
     color:white;
     background-color:fuchsia;
     padding: 3em;
+    font-family: 'Source Sans Pro', sans-serif;
+
 }
 .book-keeper{
     border: 1px solid seagreen;
@@ -133,6 +148,8 @@ a{
     color:white;
     background-color: seagreen;
     padding: 3em;
+    font-family: 'Source Sans Pro', sans-serif;
+
 }
 
 .hr{
@@ -141,6 +158,8 @@ a{
     color:white;
     background-color: indigo;
     padding: 3em;
+    font-family: 'Source Sans Pro', sans-serif;
+
 }
 
 .call{
@@ -149,6 +168,8 @@ a{
     color:white;
     background-color: darkred;
     padding: 3em;
+    font-family: 'Source Sans Pro', sans-serif;
+
 }
 
 .prod{
@@ -157,6 +178,8 @@ a{
     color:white;
     background-color: lawngreen;
     padding: 3em;
+    font-family: 'Source Sans Pro', sans-serif;
+
 }
 
 .stat{
@@ -165,6 +188,8 @@ a{
     color:white;
     background-color:slateblue;
     padding: 3em;
+    font-family: 'Source Sans Pro', sans-serif;
+
 }
 
 .labourers{
@@ -173,4 +198,25 @@ a{
     color:white;
     background-color: darkolivegreen;
     padding: 3em;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+.fired{
+    background-color:red;
+    text-align:center;
+    border: 3px thick red;
+    color:white;
+    padding: 2em;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+.pls{
+font-size: 2em;
+width:100%;
+
+}
+
+.utica{
+    background-color: seashell;
+    color: grey;
 }
