@@ -220,3 +220,16 @@ width:100%;
     background-color: seashell;
     color: grey;
 }
+ 
+/* Sabre Jo's picture */
+.jo{
+    display:flex;
+    flex-direction:column-reverse;
+}
+.fceo{
+    display:block;
+    margin-left: auto;
+    margin-right:auto;
+    height:auto;
+}
+/* ---------------------------------- */
