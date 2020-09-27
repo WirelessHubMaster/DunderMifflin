@@ -1,6 +1,8 @@
 body{
     margin:5em;
     padding:0;
+    color:cornflowerblue;
+    text-align:center;
 }
 .scranton{
    border: 3px solid red; 
@@ -217,8 +219,8 @@ width:100%;
 }
 
 .utica{
-    background-color: seashell;
-    color: grey;
+    background-color: lightcoral;
+    color: white;
 }
  
 /* Sabre Jo's picture */
@@ -233,3 +235,30 @@ width:100%;
     height:auto;
 }
 /* ---------------------------------- */
+strong{
+    font-weight:bold;
+}
+ /* current managers line */
+.work{
+font-weight: 300px;
+margin-bottom: 1em;
+}
+
+/* {
+    margin-bottom: 1rem;
+    border:1em yellow;
+} */
+* img .got{
+    width:200px;
+    height:200px;
+}
+
+* img .utica{
+    width:300px;
+    height:300px;
+}
+
+* img{
+    margin-bottom: 1.8rem;
+}
+
