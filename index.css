@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    padding:0;
+    /* background-image: url(Images/Dunder.png); */
+}
+
+nav{
+    display:flex;
+}
+
+.navbar{
+    box-sizing: border-box;
+    color:#000111;
+    justify-content: space-between;
+    border:1px solid grey;
+
+}
+a{
+    color:orangered;
+    text-decoration: none;
+    padding:1em;
+    font-size: 2em;
+    border: 1px solid red;
+    
+    /* display: flex;
+    flex-flow: wrap; */
+    /* flex-direction: row; */
+  
+}
+img{
+    width:300px;
+    height:300px;
+}
+.branches{
+    display: flex;
+    flex-wrap:wrap;
+    margin: 10px;
+}
+.branches .q{
+    margin:10px;
+}
